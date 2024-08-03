@@ -16,7 +16,7 @@ Celle-ci assure les biens suivants :
 En cas de mort, tous les rubis que vous êtes susceptible d'avoir sur vous sont intégralement conservés dans votre inventaire. Ils ne sont pas droppés par terre, et ne sont, par conséquent, pas perdables.
 
 :::danger Attention
-Si vos rubis sont contenus dans une ShulkerBox, ceux-ci ne seront PAS protégés.
+Si vos rubis sont contenus dans une ShulkerBox, ceux-ci ne seront **PAS** protégés.
 :::
 
 ## Assurance contenants
