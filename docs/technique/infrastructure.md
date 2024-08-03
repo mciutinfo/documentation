@@ -68,9 +68,10 @@ Ils sont composés chacun de 4 Processeurs ARM Neoverse-N1, 24Go de ram, 200Go d
 
 Ces 3 serveurs sont basés :
 
-À Londres
-À Marseille
-Et à Francfort
+- À Londres
+- À Marseille
+- Et à Francfort
+
 Le Proxy est mis en place sur le serveur de Londres pour sa proximité géographique avec Laval, et son ping légèrement plus faible.
 
 Les serveurs Lobby, Survie et Évènement sont répartis sur les trois différents serveurs pour éviter de surcharger tous les serveurs.
