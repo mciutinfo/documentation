@@ -1,41 +1,36 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Cette documentation a été créée à l'aide de [Docusaurus](https://docusaurus.io/).
 
-### Installation
+### Téléchargement
 
+```bash
+git clone https://github.com/mciutinfo/documentation
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ### Build
 
-```
-$ yarn build
+```bash
+cd documentation
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Le site est généré dans le dossier `build`. Le site est statique et ne nécessite pas de serveur pour être consulté.
 
 ### Deployment
 
-Using SSH:
+Pour le déployer à l'aider d'un server serve (NPM) :
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+npm run serve -- --build --port 80 --host 0.0.0.0
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Tout d'un coup ?
+
+```bash
+git clone https://github.com/mciutinfo/documentation
+cd documentation
+npm run build
+npm run serve -- --build --port 80 --host
+```
