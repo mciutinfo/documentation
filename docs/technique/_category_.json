@@ -1,0 +1,14 @@
+{
+  "position": 1.5,
+  "label": "Technique",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "technique",
+  "link": {
+    "type": "generated-index",
+    "title": "Documentation technique"
+  },
+  "customProps": {
+    "description": "Retrouvez ici les détails plus techniques liés au serveur Minecraft."
+  }
+}
