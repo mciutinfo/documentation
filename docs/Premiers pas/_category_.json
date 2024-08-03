@@ -1,0 +1,14 @@
+{
+  "position": 1.5,
+  "label": "Pour débuter",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "debuter",
+  "link": {
+    "type": "generated-index",
+    "title": "Premiers pas"
+  },
+  "customProps": {
+    "description": "Retrouvez ici les conseils et informations pour les petits nouveaux !"
+  }
+}
