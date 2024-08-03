@@ -31,6 +31,8 @@ npm run serve -- --build --port 80 --host 0.0.0.0
 ```bash
 git clone https://github.com/mciutinfo/documentation
 cd documentation
+rm -rf build # Supprime le dossier build s'il existe
 npm run build
+cd build
 npm run serve -- --build --port 80 --host
 ```
