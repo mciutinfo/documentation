@@ -24,7 +24,7 @@ Les informations pour se connecter seront indiquée dès que le serveur sera ouv
 
 Cependant, voici quelques infos pour te préparer :
 
-- Le serveur est en 1.21
+- Le serveur est en `1.21.1` (mais compatible avec `1.21`)
 - Les joueurs cracks sont **acceptés**
 - Le serveur est en **Survie**
 - Il s'agit d'un serveur survie assez simple (pas de PvP Faction)
