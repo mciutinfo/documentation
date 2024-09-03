@@ -56,11 +56,12 @@ suggestions !
 
 Si tu as un problème, tu peux directement nous contacter via Discord ou mail :
 
-| Discord     | Mail                                  | Infos                    |
-|-------------|---------------------------------------|--------------------------|
-| @The_Voltis | barnabe.havard.etu@univ-lemans.fr     | Dev du serveur (BUT 2)   |
-| @.anathos   | nathael.martinelle.etu@univ-lemans.fr | Dev du serveur (BUT 3)   |
-| @kapette    | enzo.rynders-vitu.etu@univ-lemans.fr  | Président du BDE (BUT 2) |
+| Discord     | Mail                                   | Infos                     |
+|-------------|----------------------------------------|---------------------------|
+| @The_Voltis | barnabe.havard.etu@univ-lemans.fr      | Dev du serveur (BUT 2)    |
+| @.anathos   | nathael.martinelle.etu@univ-lemans.fr  | Dev du serveur (BUT 3)    |
+| @kapette    | enzo.rynders-vitu.etu@univ-lemans.fr   | Président du BDE (BUT 2)  |
+| @onimoff    | gemino.ruffault-ravenel@univ-lemans.fr | Secrétaire du BDE (BUT 2) |
 
 
 Tu peux aussi directement venir nous voir :)
