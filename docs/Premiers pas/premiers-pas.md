@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_label: Premiers pas
+
 ---
 
 # Premiers pas sur le serveur

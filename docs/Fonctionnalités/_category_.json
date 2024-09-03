@@ -1,0 +1,14 @@
+{
+  "position": 2,
+  "label": "Fonctionnalités",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "features",
+  "link": {
+    "type": "generated-index",
+    "title": "Fonctionnalités du serveur"
+  },
+  "customProps": {
+    "description": "Retrouvez ici la liste des fonctionnalités propre au serveur"
+  }
+}
