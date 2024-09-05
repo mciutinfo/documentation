@@ -37,7 +37,7 @@ Il faudra patienter 5 secondes sans prendre de dégats ni se déplacer pour êtr
 ### 3 - Supprimer un home
 Pour supprimez un home, utilisez la commande suivante :
 ```minecraft 
-/home <nom du home>
+/delhome <nom du home>
 ```
 
 :::danger Attention !
@@ -50,5 +50,8 @@ Le TPA vous permets de demander à un joueur de vous téléporter à sur sa posi
 
 Pour cela, utilisez la commande suivante :
 ```
-/tpa
+/tpa <nom du joueur>
 ```
+
+Le joueur recevra une notification, et pourra accepter ou refuser votre demande (respectivement avec `/tpaccept` et `/tpdeny`).
+
